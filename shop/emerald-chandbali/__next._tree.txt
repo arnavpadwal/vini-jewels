@@ -1,0 +1,6 @@
+:HL["/vini-jewels/_next/static/chunks/2b628d2b592280fa.css","style"]
+:HL["/vini-jewels/_next/static/chunks/a1ac2ff9adef1744.css","style"]
+:HL["/vini-jewels/_next/static/media/75affa71d1e2f6a7-s.p.51cde8ff.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vini-jewels/_next/static/media/7ebf22b5a21034f8-s.p.d8bad3ab.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vini-jewels/_next/static/media/e41d5df559864f9e-s.p.380d09ea.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"nIKEdisPUJ-HIdZTyWm2s","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"shop","paramType":null,"paramKey":"shop","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"emerald-chandbali","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
